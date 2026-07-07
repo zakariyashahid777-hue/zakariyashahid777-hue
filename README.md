@@ -205,13 +205,10 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/>
+<img src="linkedin.com/in/zakariya-shahid-a98273281/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="zakariyashahid777@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/>
 </a>
 
 </div>
