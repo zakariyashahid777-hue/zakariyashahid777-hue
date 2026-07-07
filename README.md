@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:0F172A,100:0A0A0F&height=200&section=header&text=ZAKARIYA%20SHAHID&fontSize=42&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Computer%20Vision&descAlignY=62&descSize=15&descColor=38BDF8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:0F172A,100:0A0A0F&height=260&section=header&text=ZAKARIYA%20SHAHID&fontSize=40&fontColor=E2E8F0&fontAlignY=34&animation=fadeIn&desc=Artificial%20Intelligence%20Student%20%C2%B7%20Machine%20Learning%20%C2%B7%20Computer%20Vision&descAlignY=52&descSize=14&descColor=38BDF8" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/zakariyashahid777-hue">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+solve+real+problems;YOLOv8+%C2%B7+Whisper+%C2%B7+OpenCV+%C2%B7+PyTorch;BS+Artificial+Intelligence+%E2%80%94+Class+of+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+AI+systems+through+real+projects;Exploring+Computer+Vision%2C+NLP+%26+Automation;Turning+ideas+into+intelligent+applications" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,80 +18,51 @@
 
 <br/>
 
-## Overview
+## About Me
 
-AI Engineer focused on computer vision and applied machine learning — building systems that go from research to production, not just notebooks.
-
-**Currently:**
-- Pursuing a BS in Artificial Intelligence, expected 2027
-- Building and shipping deployed AI products end-to-end
-- Deepening expertise in real-time computer vision pipelines
+BS Artificial Intelligence student building practical AI applications across computer vision, natural language processing, speech AI, and automation. Focused on turning research concepts into working systems — from real-time detection pipelines to speech-driven tools — rather than isolated coursework.
 
 <br/>
 
----
-
-## Featured Project
-
-<table width="100%">
-<tr>
-<td>
-
-### MediFlow
-
-AI-powered multi-tenant clinic operating system — unifies scheduling, patient records, and clinical workflows for multiple clinics on a single intelligent platform.
-
-`Python` `Multi-Tenant Architecture` `Applied AI`
-
-<a href="#"><img src="https://img.shields.io/badge/View%20Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Other Projects
+## Projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-**Vehicle Detection & Plate Recognition**
+**Vehicle Detection & Number Plate Recognition**
 
-Real-time vehicle detection and automatic number plate recognition pipeline combining detection, tracking, and OCR.
+Real-time computer vision system for detecting vehicles and recognizing license plates using deep learning and OCR.
 
-`YOLOv8` `OpenCV` `EasyOCR`
+`Python` `YOLOv8` `OpenCV` `EasyOCR`
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=64748B"/></a>
+<a href="YOUR_REPOSITORY_LINK_HERE"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
 </td>
 <td width="33%" valign="top">
 
 **Flash News Bot**
 
-Telegram bot aggregating live news from RSS, Reddit, and Google News into a single real-time feed, with no paid API dependencies.
+Telegram automation bot that collects and delivers real-time news from multiple sources including RSS feeds, Reddit, and Google News.
 
-`Python` `Telegram API` `Automation`
+`Python` `Telegram API` `RSS` `Automation`
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=64748B"/></a>
+<a href="YOUR_REPOSITORY_LINK_HERE"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
 </td>
 <td width="33%" valign="top">
 
 **SubSync**
 
-Subtitle synchronization and transcription tool built on Whisper — generates and aligns subtitles directly from audio and video.
+AI-powered subtitle synchronization and transcription tool using Whisper models for speech-to-text and subtitle alignment.
 
-`Whisper` `Speech-to-Text`
+`Python` `Whisper` `Speech Recognition`
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=64748B"/></a>
+<a href="YOUR_REPOSITORY_LINK_HERE"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
 </td>
 </tr>
 </table>
-
-> Replace the `#` links above with your live repository URLs.
 
 <br/>
 
@@ -103,24 +74,50 @@ Subtitle synchronization and transcription tool built on Whisper — generates a
 <tr>
 <td width="50%" valign="top">
 
-**Languages**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark"/>
 
 `SQL`
 
-**Tools**
+**AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+
+`Hugging Face Transformers` · `NumPy` · `Pandas`
+
+**AI Domains**
+
+`Machine Learning` · `Deep Learning` · `Natural Language Processing`
+`Computer Vision` · `Speech AI` · `Automation Systems`
 
 </td>
 <td width="50%" valign="top">
 
-**AI / ML / Computer Vision**
+**Computer Vision & Speech**
 
-<img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
 
-`YOLOv8` · `EasyOCR` · `Whisper`
+`YOLOv8` · `EasyOCR` · `Whisper` · `Whisper Large Models`
+`OCR Pipelines` · `Speech-to-Text`
+
+**Backend & Development**
+
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,git,github,linux&theme=dark"/>
+
+`REST APIs`
+
+**Deployment & Automation**
+
+<img src="https://skillicons.dev/icons?i=vercel,docker,githubactions&theme=dark"/>
+
+`n8n`
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+
+`Cursor` · `Claude`
 
 </td>
 </tr>
@@ -130,7 +127,7 @@ Subtitle synchronization and transcription tool built on Whisper — generates a
 
 ---
 
-## Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -168,13 +165,13 @@ Subtitle synchronization and transcription tool built on Whisper — generates a
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/>
 </a>
-<a href="https://YOUR-PORTFOLIO-URL.com">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/>
 </a>
 
