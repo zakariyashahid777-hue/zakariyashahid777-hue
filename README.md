@@ -170,17 +170,21 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zakariyashahid777-hue&show_icons=true&theme=react&hide_border=true&bg_color=0A0A0F&title_color=38BDF8&icon_color=64748B&text_color=CBD5E1&ring_color=38BDF8" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=zakariyashahid777-hue&theme=react&hide_border=true&background=0A0A0F&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyashahid777-hue&layout=donut&theme=react&hide_border=true&bg_color=0A0A0F&title_color=38BDF8&text_color=CBD5E1" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariyashahid777-hue&theme=react-dark&hide_border=true&bg_color=0A0A0F&color=38BDF8&line=38BDF8&point=E2E8F0" width="48%"/>
+<!-- Profile Overview -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariyashahid777-hue&theme=github_dark" width="98%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zakariyashahid777-hue&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="98%"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyashahid777-hue&layout=donut&theme=react&hide_border=true&bg_color=0A0A0F&title_color=38BDF8&text_color=CBD5E1&langs_count=8" width="48%"/>
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=zakariyashahid777-hue&theme=react&hide_border=true&background=0A0A0F&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariyashahid777-hue&theme=react-dark&hide_border=true&bg_color=0A0A0F&color=38BDF8&line=38BDF8&point=E2E8F0" width="98%"/>
 
 </div>
 
