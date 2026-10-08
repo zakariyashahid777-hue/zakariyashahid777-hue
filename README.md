@@ -67,7 +67,7 @@ BS Artificial Intelligence student building practical AI applications across com
 
 Real-time computer vision pipeline for vehicle detection and automatic license plate recognition using deep learning and OCR.
 
-`Python` `YOLOv8` `OpenCV` `EasyOCR`
+Python YOLOv8 OpenCV EasyOCR
 
 <a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
@@ -78,7 +78,7 @@ Real-time computer vision pipeline for vehicle detection and automatic license p
 
 Telegram automation bot collecting real-time news from RSS feeds, Reddit, and Google News.
 
-`Python` `Telegram API` `RSS` `Automation`
+Python Telegram API RSS Automation
 
 <a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
@@ -89,7 +89,7 @@ Telegram automation bot collecting real-time news from RSS feeds, Reddit, and Go
 
 AI-powered subtitle synchronization and transcription system using Whisper models for speech-to-text and subtitle alignment.
 
-`Python` `Whisper` `Speech AI`
+Python Whisper Speech AI
 
 <a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
@@ -109,67 +109,62 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,cpp,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark"/>
 
-`Python` · `TypeScript` · `C++` · `JavaScript` · `SQL`
+SQL
 
 **AI / Machine Learning**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
 
-`PyTorch` · `TensorFlow` · `scikit-learn`
-`Hugging Face Transformers` · `NumPy` · `Pandas`
-`Deep Learning` · `Neural Networks` · `Model Training` · `Model Evaluation`
+Hugging Face Transformers · NumPy · Pandas
+Deep Learning · Neural Networks · Model Training · Model Evaluation
 
 **Computer Vision**
 
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
 
-`YOLOv8` · `EasyOCR`
-`Object Detection` · `Image Processing` · `OCR Systems`
-`Real-Time Vision Pipelines`
+YOLOv8 · EasyOCR
+Object Detection · Image Processing · OCR Systems · Real-Time Vision Pipelines
 
 </td>
-
 <td width="50%" valign="top">
-
-**Web & Application Development**
-
-<img src="https://skillicons.dev/icons?i=typescript,react,vite&theme=dark"/>
-
-`React` · `Vite` · `REST APIs` · `Frontend Architecture`
 
 **Natural Language Processing**
 
-`Transformers` · `Tokenization` · `Text Processing`
-`Named Entity Recognition` · `Question Answering`
-`BERT / RoBERTa Concepts`
+Transformers · Tokenization · Text Processing
+Named Entity Recognition · Question Answering · BERT / RoBERTa Concepts
 
 **Speech AI**
 
-`Whisper` · `Whisper Large Models`
-`Speech-to-Text` · `Audio Processing` · `Transcription Pipelines`
+Whisper · Whisper Large Models
+Speech-to-Text · Audio Processing · Transcription Pipelines
 
-**Backend & Cloud**
+**Backend & AI Applications**
 
 <img src="https://skillicons.dev/icons?i=fastapi,supabase&theme=dark"/>
 
-`FastAPI` · `Supabase` · `PostgreSQL` · `Database Design`
-`Authentication` · `Row Level Security` · `REST APIs`
+REST APIs · Database Design
 
 **Automation & Deployment**
 
 <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions&theme=dark"/>
 
-`Docker` · `Vercel` · `GitHub Actions` · `n8n`
+n8n
 
 **Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark"/>
 
-`Git` · `GitHub` · `VS Code` · `Cursor` · `Claude`
+Cursor · Claude
 
+</td>
+</tr>
+</table>
 
+<br/>
+
+---
 
 ## GitHub Telemetry
 
@@ -227,4 +222,3 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 <img src="https://komarev.com/ghpvc/?username=zakariyashahid777-hue&style=flat-square&color=0A0A0F&label=PROFILE+VIEWS&labelColor=0A0A0F&textColor=64748B"/>
 
 </div>
-this is my github readme so problem iam facing is that the language used section i think its not good andinaccurate and yeah i worked heavly in type script it those are private so still fix it you can add here
