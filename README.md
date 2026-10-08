@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:0F172A,100:0A0A0F&height=260&section=header&text=ZAKARIYA%20SHAHID&fontSize=40&fontColor=E2E8F0&fontAlignY=34&animation=fadeIn&desc=Artificial%20Intelligence%20Student%20%C2%B7%20Machine%20Learning%20%C2%B7%20Computer%20Vision&descAlignY=52&descSize=14&descColor=38BDF8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:0F172A,100:0A0A0F&height=260&section=header&text=ZAKARIYA%20SHAHID&fontSize=40&fontColor=E2E8F0&fontAlignY=34&animation=fadeIn&desc=Artificial%20Intelligence%20Student%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full-Stack%20Development&descAlignY=52&descSize=14&descColor=38BDF8" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/zakariyashahid777-hue">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+AI+systems+through+real+projects;Exploring+Computer+Vision%2C+NLP+%26+Automation;Turning+ideas+into+intelligent+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+AI+systems+through+real+projects;Exploring+Computer+Vision%2C+NLP+%26+Automation;Shipping+full-stack+products+with+TypeScript" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,6 +42,10 @@
 <td><code>ACTIVE</code></td>
 </tr>
 <tr>
+<td>Full-Stack SaaS Development</td>
+<td><code>ACTIVE</code></td>
+</tr>
+<tr>
 <td>Automation Systems</td>
 <td><code>EXPLORING</code></td>
 </tr>
@@ -53,7 +57,36 @@
 
 ## About
 
-BS Artificial Intelligence student building practical AI applications across computer vision, natural language processing, speech AI, and automation. Focused on turning research concepts into working systems — from real-time detection pipelines to speech-driven tools — rather than isolated coursework.
+BS Artificial Intelligence student building practical applications across computer vision, natural language processing, speech AI, automation, and full-stack SaaS development. Focused on turning research concepts into working systems — from real-time detection pipelines and speech-driven tools to production-style, multi-tenant web applications built with TypeScript and PostgreSQL.
+
+<br/>
+
+## Languages in Practice
+
+<table width="100%">
+<tr>
+<th align="left" width="22%">Language</th>
+<th align="left">Where I use it</th>
+</tr>
+<tr>
+<td><b>Python</b></td>
+<td>Machine learning, computer vision pipelines, speech AI and Whisper-based tooling, automation, FastAPI services</td>
+</tr>
+<tr>
+<td><b>TypeScript</b></td>
+<td>Full-stack SaaS development with React and Supabase — including MediFlow, a private multi-tenant clinic platform</td>
+</tr>
+<tr>
+<td><b>SQL</b></td>
+<td>PostgreSQL schema design, row-level security policies, constraints, triggers, and access-control logic</td>
+</tr>
+<tr>
+<td><b>JavaScript · C++ · HTML · CSS</b></td>
+<td>Web fundamentals, client-side tools, and systems-level coursework</td>
+</tr>
+</table>
+
+<sub>Much of my TypeScript and SQL work lives in private repositories, so GitHub's automatic language statistics understate it.</sub>
 
 <br/>
 
@@ -61,7 +94,31 @@ BS Artificial Intelligence student building practical AI applications across com
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+**MediFlow**
+
+Multi-tenant clinic operating system with role-based access control and PostgreSQL row-level security. Private repository, in active development.
+
+`TypeScript` `React` `Supabase` `PostgreSQL`
+
+<img src="https://img.shields.io/badge/Private%20Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=64748B"/>
+
+</td>
+<td width="50%" valign="top">
+
+**SubSync**
+
+AI-powered subtitle synchronization and transcription system using Whisper models for speech-to-text and subtitle alignment.
+
+`Python` `Whisper` `Speech AI`
+
+<a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **Vehicle Detection & Number Plate Recognition**
 
@@ -72,24 +129,13 @@ Real-time computer vision pipeline for vehicle detection and automatic license p
 <a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **Flash News Bot**
 
 Telegram automation bot collecting real-time news from RSS feeds, Reddit, and Google News.
 
 `Python` `Telegram API` `RSS` `Automation`
-
-<a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
-
-</td>
-<td width="33%" valign="top">
-
-**SubSync**
-
-AI-powered subtitle synchronization and transcription system using Whisper models for speech-to-text and subtitle alignment.
-
-`Python` `Whisper` `Speech AI`
 
 <a href="YOUR_REPOSITORY_LINK"><img src="https://img.shields.io/badge/Repository-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/></a>
 
@@ -109,9 +155,15 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,html,css&theme=dark"/>
 
 `SQL`
+
+**Frontend & Full-Stack**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark"/>
+
+`TypeScript` · `React` · `Tailwind CSS` · `Multi-Tenant SaaS Architecture`
 
 **AI / Machine Learning**
 
@@ -140,10 +192,11 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 `Whisper` · `Whisper Large Models`
 `Speech-to-Text` · `Audio Processing` · `Transcription Pipelines`
 
-**Backend & AI Applications**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres&theme=dark"/>
 
+`Supabase Auth` · `Row Level Security` · `PostgreSQL`
 `REST APIs` · `Database Design`
 
 **Automation & Deployment**
@@ -175,16 +228,17 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyashahid777-hue&layout=donut&theme=react&hide_border=true&bg_color=0A0A0F&title_color=38BDF8&text_color=CBD5E1&langs_count=8" width="48%"/>
-
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=zakariyashahid777-hue&theme=react&hide_border=true&background=0A0A0F&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=zakariyashahid777-hue&theme=react&hide_border=true&background=0A0A0F&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="60%"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariyashahid777-hue&theme=react-dark&hide_border=true&bg_color=0A0A0F&color=38BDF8&line=38BDF8&point=E2E8F0" width="98%"/>
+
+<br/><br/>
+
+<sub>Statistics reflect GitHub activity only. A significant share of my work, including most of my TypeScript development, is in private repositories.</sub>
 
 </div>
 
@@ -212,8 +266,6 @@ AI-powered subtitle synchronization and transcription system using Whisper model
 <a href="mailto:zakariyashahid777@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A0A0F?style=flat-square&labelColor=0A0A0F&color=38BDF8"/>
 </a>
-
-</div>
 
 <br/>
 
